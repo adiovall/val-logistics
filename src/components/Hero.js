@@ -276,7 +276,7 @@ function Hero() {
             position: "absolute",
             right: isMobile ? "18px" : "45px",
             left: isMobile ? "18px" : "unset",
-            bottom: isMobile ? "220px" : "45px",
+            bottom: isMobile ? "200px" : "45px",
             width: isMobile ? "auto" : "360px",
             padding: isMobile ? "12px" : "28px",
             borderRadius: isMobile ? "18px" : "28px",
